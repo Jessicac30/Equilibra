@@ -62,4 +62,7 @@ pip install fastapi pydantic --user
 ``` ruby
 python -m uvicorn main:app --reload
 ```
+# Resultado esperado
+
+![equilibra](https://github.com/user-attachments/assets/85f25446-b31f-46be-ba3c-9a0d82266ee7)
 
