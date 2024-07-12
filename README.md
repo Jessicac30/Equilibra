@@ -58,7 +58,7 @@ pip install fastapi pydantic --user
 ```
 ## Executar aplicação
 - Na porta http://127.0.0.1:8000
-
+- Na pasta `src` execute
 ``` ruby
 python -m uvicorn main:app --reload
 ```
