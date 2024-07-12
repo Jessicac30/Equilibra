@@ -5,7 +5,7 @@ Serviço que seleciona frases motivacionais
 - Clone do projeto
 
 ```ruby
-git clone [https://github.com/](https://github.com/Jessicac30/Equilibra.git)
+git clone https://github.com/Jessicac30/Equilibra.git
 ``` 
 - Iniciar virtual venv
   
