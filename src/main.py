@@ -17,7 +17,7 @@ class QuoteResponse(BaseModel):
 
 @app.get("/", response_model=QuoteResponse)
 def get_random_quote():
-    with open("equilibra.json") as file:
+    with open("equilibra.json", encoding="utf-8") as file:
         quotes_list = json.load(file)
         quote = random.choice(quotes_list)
         return QuoteResponse(author=quote["author"], frase=quote["frase"])
