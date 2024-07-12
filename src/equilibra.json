@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "author": "Charles Chaplin",
+      "frase": "A persistência é o caminho do êxito."
+    },
+    {
+      "id": 2,
+      "author": "Winston Churchill",
+      "frase": "O sucesso é ir de fracasso em fracasso sem perder o entusiasmo."
+    },
+    {
+      "id": 3,
+      "author": "Theodore Roosevelt",
+      "frase": "Acredite que você pode, assim você já está no meio do caminho."
+    },
+    {
+      "id": 4,
+      "author": "James Neil Hollingworth",
+      "frase": "A coragem não é ausência do medo; é a persistência apesar do medo."
+    },
+    {
+      "id": 5,
+      "author": "Thomas Edison",
+      "frase": "Nossa maior fraqueza está em desistir. O caminho mais certo de vencer é tentar mais uma vez."
+    },
+    {
+      "id": 6,
+      "author": "Mahatma Gandhi",
+      "frase": "O futuro depende do que fazemos no presente."
+    },
+    {
+      "id": 7,
+      "author": "Ésquilo",
+      "frase": "A disciplina é a mãe do êxito."
+    },
+    {
+      "id": 8,
+      "author": "C.S. Lewis",
+      "frase": "Dificuldades preparam pessoas comuns para destinos extraordinários."
+    },
+    {
+      "id": 9,
+      "author": "Mahatma Gandhi",
+      "frase": "Você deve ser a mudança que deseja ver no mundo."
+    },
+    {
+      "id": 10,
+      "author": "Vidal Sassoon",
+      "frase": "O único lugar onde o sucesso vem antes do trabalho é no dicionário."
+    },
+    {
+      "id": 11,
+      "author": "Henry Ford",
+      "frase": "Não encontre defeitos, encontre soluções. Qualquer um sabe se queixar."
+    },
+    {
+      "id": 12,
+      "author": "Winston Churchill",
+      "frase": "O pessimista vê dificuldade em cada oportunidade; o otimista vê oportunidade em cada dificuldade."
+    },
+    {
+      "id": 13,
+      "author": "Confúcio",
+      "frase": "Nossa maior glória não está em nunca cair, mas em nos levantarmos toda vez que caímos."
+    },
+    {
+      "id": 14,
+      "author": "Robert Collier",
+      "frase": "O sucesso é a soma de pequenos esforços repetidos dia após dia."
+    },
+    {
+      "id": 15,
+      "author": "Autor Desconhecido",
+      "frase": "Inspiração vem dos outros. Motivação vem de dentro de nós."
+    },
+    {
+      "id": 16,
+      "author": "Oprah Winfrey",
+      "frase": "A maneira como você encara a vida é que faz toda diferença."
+    },
+    {
+      "id": 17,
+      "author": "Autor Desconhecido",
+      "frase": "Nenhum obstáculo será grande se a sua vontade de vencer for maior."
+    },
+    {
+      "id": 18,
+      "author": "William Shakespeare",
+      "frase": "Fortes razões fazem fortes ações."
+    },
+    {
+      "id": 19,
+      "author": "Walt Disney",
+      "frase": "Se você pode sonhar, você pode fazer."
+    },
+    {
+      "id": 20,
+      "author": "Platão",
+      "frase": "Não espere por uma crise para descobrir o que é importante em sua vida."
+    },
+    {
+      "id": 21,
+      "author": "Charles R. Swindoll",
+      "frase": "A vida é 10% o que acontece a você e 90% como você reage a isso."
+    },
+    {
+      "id": 22,
+      "author": "Steve Jobs",
+      "frase": "O único modo de fazer um excelente trabalho é amando o que você faz."
+    },
+    {
+      "id": 23,
+      "author": "Confúcio",
+      "frase": "Você não pode mudar o vento, mas pode ajustar as velas do barco para chegar onde quer."
+    },
+    {
+      "id": 24,
+      "author": "Nelson Mandela",
+      "frase": "A maior glória em viver não está em nunca cair, mas em nos levantarmos toda vez que caímos."
+    },
+    {
+      "id": 25,
+      "author": "Charles Darwin",
+      "frase": "Não é o mais forte que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças."
+    },
+    {
+      "id": 26,
+      "author": "Napoleon Hill",
+      "frase": "Qualquer coisa que a mente do homem possa conceber e acreditar, ela pode alcançar."
+    },
+    {
+      "id": 27,
+      "author": "Warren Bennis",
+      "frase": "Nenhum de nós é tão inteligente quanto todos nós juntos."
+    },
+    {
+      "id": 28,
+      "author": "Confúcio",
+      "frase": "Não importa o quão devagar você vá, desde que você não pare."
+    },
+    {
+      "id": 29,
+      "author": "John Henry Newman",
+      "frase": "A gem ogir é crescer, e crescer é mudar, e mudar é se preparar para o que ainda está por vir."
+    },
+    {
+      "id": 30,
+      "author": "Lao Tzu",
+      "frase": "A jornada de mil milhas começa com um passo."
+    },
+    {
+      "id": 31,
+      "author": "Jimmy Johnson",
+      "frase": "A diferença entre o ordinário e o extraordinário é aquele pequeno extra."
+    },
+    {
+      "id": 32,
+      "author": "Mark Twain",
+      "frase": "Coragem é a resistência ao medo, domínio do medo, e não a ausência do medo."
+    },
+    {
+      "id": 33,
+      "author": "Immanuel Kant",
+      "frase": "Acredite em milagres, mas não dependa deles."
+    },
+    {
+      "id": 34,
+      "author": "George Addair",
+      "frase": "Tudo o que você sempre quis está do outro lado do medo."
+    },
+    {
+      "id": 35,
+      "author": "Autor Desconhecido",
+      "frase": "A chave para transformar um sonho em realidade é a motivação."
+    },
+    {
+      "id": 36,
+      "author": "C.S. Lewis",
+      "frase": "Você nunca é velho demais para estabelecer um novo objetivo ou sonhar um novo sonho."
+    },
+    {
+      "id": 37,
+      "author": "Bo Bennet",
+      "frase": "Sucesso não é o que você tem, mas quem você é."
+    },
+    {
+      "id": 38,
+      "author": "Madre Teresa de Calcutá",
+      "frase": "Não espere por líderes; faça você mesmo, pessoa por pessoa."
+    },
+    {
+      "id": 39,
+      "author": "Platão",
+      "frase": "Tente mover o mundo - o primeiro passo será mover a si mesmo."
+    },
+    {
+      "id": 40,
+      "author": "Aristóteles Onassis",
+      "frase": "O segredo do sucesso é saber algo que ninguém mais sabe."
+    },
+    {
+      "id": 41,
+      "author": "Norman Vincent Peale",
+      "frase": "Você pode encontrar lições dolorosas, mas isso não significa que aprendeu o suficiente para estar protegido contra as adversidades semelhantes no futuro."
+    },
+    {
+      "id": 42,
+      "author": "Antoine de Saint-Exupéry",
+      "frase": "Só se vê bem com o coração; o essencial é invisível aos olhos."
+    },
+    {
+      "id": 43,
+      "author": "Dalai Lama",
+      "frase": "A felicidade não é algo feito. Ela vem das suas próprias ações."
+    },
+    {
+      "id": 44,
+      "author": "Buda",
+      "frase": "O que você pensa, você se torna. O que você sente, você atrai. O que você imagina, você cria."
+    },
+    {
+      "id": 45,
+      "author": "Elbert Hubbard",
+      "frase": "O homem não é o que pensa ser, mas o que pensa, ele é."
+    },
+    {
+      "id": 46,
+      "author": "Friedrich Nietzsche",
+      "frase": "Aquele que tem uma razão para viver pode suportar quase qualquer coisa."
+    },
+    {
+      "id": 47,
+      "author": "Shakespeare",
+      "frase": "A adversidade é a primeira experiência que revela o verdadeiro valor de um homem."
+    },
+    {
+      "id": 48,
+      "author": "Mahatma Gandhi",
+      "frase": "A força não vem da capacidade física. Vem de uma vontade indomável."
+    },
+    {
+      "id": 49,
+      "author": "Sir Edmund Hillary",
+      "frase": "Não é a montanha que vencemos, mas a nós mesmos."
+    },
+    {
+      "id": 50,
+      "author": "Henry Ford",
+      "frase": "Se você acha que pode, ou acha que não pode, de qualquer forma você está certo."
+    }
+  ]
+  
